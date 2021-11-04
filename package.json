@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-value-no-unknown-custom-properties",
+  "name": "@ronilaukkarinen/stylelint-value-no-unknown-custom-properties",
   "version": "3.0.0",
   "description": "A stylelint rule to disallow usage of unknown custom properties",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
