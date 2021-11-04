@@ -1,5 +1,9 @@
 # Changes to Stylelint Value No Unknown Custom Properties
 
+### 3.0.1: 2021-11-04
+
+* Support for stylelint v14
+
 ### 3.0.0 (May 12, 2020)
 
 - Updated: `postcss-values-parser` to 3.0.4 (major)
