@@ -1,5 +1,10 @@
 # Changes to Stylelint Value No Unknown Custom Properties
 
+### 4.0.1 (February 13, 2023)
+
+- Update: `stylelint` to 15.1.0
+- Update peer dependencies to `stylelint` 10 - 15
+
 ### 4.0.0 (March 26, 2022)
 
 - Updated to use `postcss-value-parser`.
