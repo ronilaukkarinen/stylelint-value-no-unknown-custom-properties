@@ -12,7 +12,7 @@ unknown custom properties.
 Add [stylelint] and [Stylelint Value No Unknown Custom Properties] to your project.
 
 ```bash
-npm install stylelint stylelint-value-no-unknown-custom-properties --save-dev
+npm install stylelint @ronilaukkarinen/stylelint-value-no-unknown-custom-properties --save-dev
 ```
 
 Add [Stylelint Value No Unknown Custom Properties] to your [stylelint configuration].
@@ -20,7 +20,7 @@ Add [Stylelint Value No Unknown Custom Properties] to your [stylelint configurat
 ```js
 {
   "plugins": [
-    "stylelint-value-no-unknown-custom-properties"
+    "@ronilaukkarinen/stylelint-value-no-unknown-custom-properties"
   ],
   "rules": {
     "csstools/value-no-unknown-custom-properties": true || false || null
